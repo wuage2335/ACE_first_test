@@ -65,5 +65,3 @@ main函数中的GPIO_ResetBits和 GPIO_SetBits 函数用于测试是否发送完
 警惕复制粘贴陷阱
 
 指某人(没错说的就是我) 将 APB2 总线的时钟使能函数到了 粘贴成了 APB1 的 , 导致浪费了四个小时用于调试
-
-# ACE_first_test
